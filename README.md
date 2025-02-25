@@ -16,3 +16,6 @@ Followed Agile methodologies and version control using GitHub for streamlined de
 
 🔹 Technologies Used:
 ✅ React.js | ✅ TypeScript | ✅ JavaScript (ES6+) | ✅ Tailwind CSS | ✅ Material-UI | ✅ Redux | ✅ Git & GitHub | ✅ API Integration
+
+🔹 Internship Task :
+1. Blog-Website 
