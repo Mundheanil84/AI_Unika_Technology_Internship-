@@ -18,7 +18,8 @@ Followed Agile methodologies and version control using GitHub for streamlined de
 ✅ React.js | ✅ TypeScript | ✅ JavaScript (ES6+) | ✅ Tailwind CSS | ✅ Material-UI | ✅ Redux | ✅ Git & GitHub | ✅ API Integration
 
 🔹 Internship Task :
-1. Blog-Website 
-2. E-Book Site
-3. Ecommmerce Site
+1. Blog Website 
+2. E-Book Website
+3. Ecommmerce Websitre
+4. Restaurant website
    
