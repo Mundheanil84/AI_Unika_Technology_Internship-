@@ -7,7 +7,7 @@ This repository documents my work as a **Frontend Developer Intern** at **AI Uni
 
 ## Internship Details
 - **Role**: Frontend Developer Intern  
-- **Duration**: December 2024 - Present  
+- **Duration**: December 2024 - Jun 2025
 - **Company**: AI Unika Technology, Pune  
 
 ---
@@ -68,4 +68,7 @@ This repository documents my work as a **Frontend Developer Intern** at **AI Uni
 ## Future Goals
 - Explore advanced frontend technologies like **Next.js** and **GraphQL**.  
 - Contribute to open-source projects and expand my portfolio.  
-- Continue learning and implementing best practices in **UI/UX design** and **web performance optimization**.  
+- Continue learning and implementing best practices in **UI/UX design** and **web performance optimization**.
+
+##Certification: 
+[Internship Completion Letter.pdf](https://github.com/user-attachments/files/21205190/Internship.Completion.Letter.pdf)
